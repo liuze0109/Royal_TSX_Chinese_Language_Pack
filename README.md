@@ -1,0 +1,2 @@
+# Royal_TSX_Chinese_Language_Pack
+Royal_TSX的简体中文汉化包
