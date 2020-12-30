@@ -1,0 +1,56 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"Official Royal TSX Web Plugin" = "官方 Royal TSX Web 插件";
+
+"Web Page Connection Settings" = "Web Page 连接设置";
+"Web Page Template Settings" = "Web Page 模板设置";
+"Web Page Default Settings" = "Web Page 默认设置";
+
+// Property Page Web Main
+"A web page connection is like a mini web browser within Royal TSX. Get quick access to your favorite shortcuts or web applications directly in Royal TSX. Very useful for router admin interfaces, sharepoint sites, etc." = "网页连接就像Royal TSX中的微型Web浏览器。直接在Royal TSX中快速访问您喜欢的快捷方式或Web应用程序。对于路由器管理界面，共享点站点等非常有用.";
+"URL" = "URL";
+"The \"Display Name\" must not be empty." = " \"显示名称\" 不能为空.";
+"The \"URL\" must not be empty." = " \"URL\" 不能为空.";
+
+"Back" = "后退";
+"Forward" = "前进";
+"Reload" = "刷新";
+"Use custom User Agent String" = "使用自定义用户代理字符串";
+"Custom User Agent String" = "自定义用户代理字符串";
+"An error occurred while parsing the URL." = "解析网址时发生错误.";
+"Find" = "查找";
+"Find..." = "查找...";
+"Find in '{0}'..." = "在'{0}'查找...";
+"Automatically show data" = "自动显示数据";
+"Location" = "定位";
+"Location..." = "Locat定位ion...";
+"Cookie Storage" = "Cookie 存储";
+"Global" = "全局";
+"Isolated" = "隔离的";
+"Configure advanced settings like the Cookie Storage mode, the User Agent String or how to handle invalid certificates." = "配置高级设置，例如Cookie存储模式，用户代理字符串或如何处理无效证书.";
+"Ignore invalid certificates" = "忽略无效的证书";
+"Engine" = "引擎";
+"Modern" = "现代的";
+"Legacy" = "过时的";
+"The modern WebKit engine supports plugins (Flash, Java, etc.)." = "现代的WebKit引擎支持插件（Flash，Java等）.";
+"The legacy WebKit engine doesn't support plugins (Flash, Java, etc.)." = "旧版WebKit引擎不支持插件（Flash，Java等）.";
+"Requires at least macOS 10.10 Yosemite." = "至少需要 macOS 10.10 Yosemite以上.";
+"Timeout" = "超时";
+"seconds" = "秒";
+"Enable Developer Extras" = "启用开发人员选项";
+"This setting is only available for connections that use the modern WebKit engine." = "此设置仅适用于使用现代WebKit引擎的连接.";
+"Allow Internet Plugins" = "允许Internet插件";
+"Prevent cross-site tracking" = "防止跨站跟踪";
+"A download was completed successfully." = "下载成功完成.";
+"A download failed." = "下载失败.";
+"A download was cancelled." = "下载取消.";
+"{0} ({1} of {2})" = "{0} ({1} of {2})";
+"Go to the homepage" = "返回主页";
+"Show downloads" = "显示下载";
+"Show the previous page" = "显示上一页";
+"Show the next page" = "显示下一页";
+"Reload this page" = "刷新此页面";
+"Do you want to allow this page to open \"{0}\"?" = "您要允许此页面打开 \"{0}\"?";
+"Royal TSX can't open \"{0}\" because macOS doesn't recognise internet addresses starting with \"{1}:\"." = "Royal TSX 不能打开 \"{0}\" 因为 macOS 无法识别以开头的互联网地址 \"{1}:\".";

@@ -1,0 +1,101 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"VMware" = "VMware";
+"VMware Connection Settings" = "VMware 连接设置";
+"VMware Template Settings" = "VMware 模板设置";
+"VMware Default Settings" = "VMware 默认设置";
+
+"VMware Connections allow you to display VM instances hosted by a vCenter or ESXi host. By using the '…' button next to the Computer Name field you can specify multiple hosts and display the results in a consolidated view." = "VMware Connections允许您显示由vCenter或ESXi主机托管的VM实例。通过使用“计算机名”字段旁边的“…”按钮，您可以指定多个主机并在合并视图中显示结果.";
+"The \"Computer Name\" must not be empty." = "\"计算机名称\" 不能为空.";
+"Use HTTPS" = "使用 HTTPS";
+
+"VMware instance(s)" = "VMware 实例";
+"Power State" = "电源状态";
+"Overall Status" = "总体状况";
+"Guest State" = "访客情况";
+"Guest Full Name" = "访客全名";
+"Guest IP Address" = "访客IP地址";
+"Management Object Reference" = "管理对象参考";
+"Change Version" = "修改版本";
+"UUID" = "UUID";
+"Version" = "版本";
+"Uptime" = "正常运行时间";
+"Tools Version" = "工具版本";
+"Max Memory Usage" = "最大内存使用量";
+"Max CPU Usage" = "最大CPU使用量";
+"Guest Memory Usage" = "访客内存使用率";
+"Host Memory Usage" = "主机内存使用率";
+"Overall CPU Usage" = "总体CPU使用率";
+"Private Memory" = "私有内存";
+"Guest Memory %" = "访客内存 %";
+"Provisioned Space" = "预置空间";
+"Used Space" = "已使用空间";
+"Notes" = "提示";
+"VNC Enabled" = "VNC 已开启";
+"VNC Port" = "VNC 端口";
+"VNC Password" = "VNC 密码";
+
+"Power On" = "打开电源";
+"Power Off" = "关闭电源";
+"Reboot" = "重启";
+"Restart Guest" = "重启访客";
+"Shutdown Guest" = "关闭访客";
+"Suspend" = "挂起";
+"Reset" = "重置";
+"Terminate" = "终止";
+"Launch remote console" = "启动远程控制台";
+
+"Not Running" = "没有运行";
+"Resetting" = "重设";
+"Running" = "运行中";
+"Shutting Down" = "关机";
+"Standby" = "支持";
+
+"Gray" = "灰色";
+"Unknown" = "未知的";
+"Green" = "绿色";
+"OK" = "OK";
+"Red" = "红色";
+"Problem detected" = "发现问题";
+"Yellow" = "黄色";
+"Potential Problem" = "潜在问题";
+
+"Suspended" = "已暂停";
+"Powered Off" = "已关机";
+
+"Are you sure you want to power on the selected VMware instance(s)?" = "确定要打开选定的VMware实例吗？";
+"Are you sure you want to power off the selected VMware instance(s)?" = "确定要关闭选定的VMware实例的电源?";
+"Are you sure you want to reboot the selected VMware instance(s)?" = "您确定要重启所选的VMware实例吗?";
+"Are you sure you want to shutdown the selected VMware instance(s)?" = "您确定要关闭所选的VMware实例吗?";
+"Are you sure you want to suspend the selected VMware instance(s)?" = "确定要挂起所选的VMware实例吗?";
+"Are you sure you want to reset the selected VMware instance(s)?" = "您确定要重置所选的VMware实例吗？?";
+"Are you sure you want to terminate the selected VMware instance(s)?" = "您确定要终止所选的VMware实例吗?";
+"'VMware Remote Console' must be installed to connect to the console of a VMware virtual machine. The application can be downloaded from the VMware website: {0}" = "必须安装“ VMware Remote Console”才能连接到VMware虚拟机的控制台。可以从VMware网站下载该应用程序: {0}";
+"Only 'clone' tickets are supported at the moment. Requested ticket type: '{0}'" = "目前仅支持“克隆”票证。要求的票证类型： '{0}'";
+
+"VMware Dashboard" = "VMware 控制台";
+"Automatically show data" = "自动显示数据";
+"If checked, the data is shown automatically." = "如果选中，数据将自动显示.";
+"All Guest IP Addresses" = "所有访客 IP 地址";
+"VM Version" = "VM 版本";
+"Service Port" = "服务端口";
+"Number of Snapshots" = "快照数量";
+"Update Level" = "更新等级";
+
+"Host Version" = "主机版本";
+"Host Build" = "主机构建";
+"Host Product Name" = "主机产品名称";
+"Host Agent Update Level" = "主机代理更新级别";
+"Data Center" = "数据中心";
+"Host Name" = "主机名称";
+"Host IP" = "主机IP";
+
+"Connect with RDP (Ad hoc)" = "连接 RDP (Ad hoc)";
+"Connect with VNC (Ad hoc)" = "连接 VNC (Ad hoc)";
+"Connect with SSH (Ad hoc)" = "连接 SSH (Ad hoc)";
+"All have DHCP enabled" = "所有都启用了DHCP";
+"All DNS Addresses" = "所有DNS地址";
+"Current license or ESXi version prohibits execution of the requested operation." = "当前许可证或ESXi版本禁止执行请求的操作.";
+"Some actions, like changing the power state and issuing remote control tickets are not supported when using VMware's free licenses. Please install a production license to be able to execute such actions." = "使用VMware的免费许可证时，不支持某些操作，例如更改电源状态和发出远程控制票证。请安装生产许可证以执行此类操作.";

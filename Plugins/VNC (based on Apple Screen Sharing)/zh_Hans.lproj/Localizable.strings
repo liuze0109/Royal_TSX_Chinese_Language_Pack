@@ -1,0 +1,56 @@
+﻿/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"Screen Sharing" = "屏幕分享";
+"Screen Sharing Connection Settings" = "屏幕分享设置";
+"Screen Sharing Template Settings" = "屏幕分享模板设置";
+"Screen Sharing Default Settings" = "屏幕分享默认设置";
+"Advanced" = "高级";
+"Observe Mode" = "观察模式";
+"Switch to Observe Mode" = "切换到观察模式";
+"Control Mode" = "控制模式";
+"Switch to Control Mode" = "切换到控制模式";
+"Scaling" = "缩放";
+"Enable Scaling" = "开启缩放";
+"Quality" = "质量";
+"Adaptive Quality" = "自适应质量";
+"Full Quality" = "全面品质";
+"All Displays: {0} x {1}" = "所有显示: {0} x {1}";
+"Display {0}: {1} x {2}" = "显示 {0}: {1} x {2}";
+"Display Options" = "显示选项";
+"Input" = "输入";
+"Connection failed." = "连接失败.";
+"Please make sure that Screen Sharing (in the Sharing section of System Preferences) is enabled on the computer to which you are attempting to connect. Also make sure your network connection is working properly." = "请确保尝试连接的计算机上启用了“屏幕共享”（在“系统偏好设置”的“共享”部分中）。同时确保您的网络连接正常.";
+"Configure input settings, like keyboard behaviour, for this Screen Sharing connection." = "为此屏幕共享连接配置输入设置，例如键盘行为.";
+"Scroll the screen" = "滚动屏幕";
+"When the cursor reaches an edge" = "当光标到达边缘时";
+"Continuosly with the cursor" = "连续用光标";
+"Only when the scroll bars are adjusted" = "仅在调整滚动条时";
+"Keyboard Input" = "键盘输入";
+"None (Observe Mode)" = "没有 (观察模式)";
+"Forward keyboard shortcuts only if not in use locally" = "仅在本地不使用时转发键盘快捷键";
+"Forward keyboard shortcuts even if in use locally" = "转发键盘快捷键（即使在本地使用）";
+"Forward all keyboard shortcuts and hotkeys" = "转发所有键盘快捷键和热键";
+"When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Security & Privacy' pane of System Preferences, then activate Royal TSX in the 'Accessibility' section." = "当 '{0}' 开启时, Royal TSX需要“可访问性”权限。单击下面的按钮以打开“系统偏好设置”的“安全性和隐私”窗格，然后在“辅助功能”部分中激活Royal TSX。";
+"Enable access for assistive devices" = "启用辅助设备的访问权限";
+"With a Screen Sharing connection you can connect to remote computers supporting Apple Remote Desktop/Screen Sharing or VNC (standard port is 5900)." = "通过屏幕共享连接，您可以连接到支持Apple远程桌面/屏幕共享或VNC的远程计算机（标准端口为5900）.";
+"The \"Display Name\" must not be empty." = " \"显示名称\" 不能为空.";
+"The \"Computer Name\" must not be empty." = " \"计算机名称\" 不能为空.";
+"Port/Display:" = "端口/显示:";
+"The software on the remote computer appears to be incompatible with this version of Screen Sharing." = "远程计算机上的软件似乎与此版本的屏幕共享不兼容.";
+"'{0}' is currently using the display on '{1}'" = "'{0}' 当前正在使用显示器 '{1}'";
+"How would you like to connect?" = "您想如何连接?";
+"Ask for permissions to view the display" = "要求获得查看显示的权限";
+"Log in as yourself: '{0}'" = "自行登录: '{0}'";
+"Your Screen Sharing session has been closed by a remote user." = "您的屏幕共享会话已由远程用户关闭.";
+"Unlock Screen" = "解锁屏幕";
+"Lock Screen" = "锁定屏幕";
+"Screen locked by {0}" = "屏幕被 {0} 锁定";
+"You cannot control your own screen." = "您无法控制自己的屏幕.";
+"Automatically disconnect sessions on sleep" = "自动断开睡眠会话";
+"When your computer goes to sleep and this setting is enabled, all sessions will automatically be disconnected. When your computer wakes after sleeping you'll be prompted to reconnect to those sessions." = "当计算机进入睡眠状态并启用此设置时，所有会话将自动断开连接。当计算机在睡眠后唤醒时，系统会提示您重新连接到这些会话.";
+"Send 'Cmd-Option-Escape'" = "发送 'Cmd-Option-Escape'";
+"Send 'Ctrl-Alt-Delete" = "发送 'Ctrl-Alt-Delete'";
+"Configure display settings, like the quality, for this Screen Sharing connection." = "为此屏幕共享连接配置显示设置，例如质量.";
+"Input Mode" = "输入模式";

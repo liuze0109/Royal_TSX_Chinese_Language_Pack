@@ -1,0 +1,58 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"Official Royal TSX VNC Plugin" = "官方 Royal TSX VNC 插件";
+
+"VNC Connection Settings" = "VNC 连接设置";
+"VNC Template Settings" = "VNC 模板设置";
+"VNC Default Settings" = "VNC 默认设置";
+
+"Display Options" = "显示选项";
+"Advanced" = "高级";
+
+// Property Page Vnc Main
+"With a VNC connection you can connect to remote computers supporting VNC (Virtual Network Computing, Standard Port is 5900). You can change the port in the Advanced section." = "通过VNC连接，您可以连接到支持VNC或Apple Remote Desktop的远程计算机（标准端口为5900）.";
+"The \"Display Name\" must not be empty." = " \"显示名称\" 不能为空.";
+"The \"Computer Name\" must not be empty." = " \"计算机名称\" 不能为空.";
+"Port/Display:" = "端口/显示:";
+
+// Property Page Vnc Advanced Main
+"Configure advanced VNC options like color settings and SSH Tunnels." = "配置高级VNC选项，例如颜色设置和SSH隧道.";
+"View only" = "只读";
+"Allow other clients to connect" = "允许其他客户端连接";
+"Tunnel over SSH" = "通过SSH隧道";
+"SSH Host" = "SSH 主机";
+"Limit to 256 colors" = "限制到256色";
+"Enable CopyRect encoding" = "启用CopyRect编码";
+"Enable JPEG encoding (requires Tight)" = "启用JPEG编码（要求紧密）";
+
+"Special Keys" = "特殊键";
+"Send 'Cmd-Option-Escape'" = "发送 'Cmd-Option-Escape'";
+"Send 'Ctrl-Alt-Delete" = "发送 'Ctrl-Alt-Delete'";
+"Send 'Insert'" = "发送 'Insert'";
+"Send 'Delete'" = "发送 'Delete'";
+"Send 'Pause'" = "发送 'Pause'";
+"Send 'Break'" = "发送 'Break'";
+"Send 'Print'" = "发送 'Print'";
+"Send 'Execute'" = "发送 'Execute'";
+
+"Keyboard" = "键盘";
+"Input" = "输入";
+"Keyboard Input" = "键盘输入";
+"None (View only)" = "没有 (只读)";
+"Forward keyboard shortcuts only if not in use locally" = "仅在本地不使用时转发键盘快捷键";
+"Forward keyboard shortcuts even if in use locally" = "转发键盘快捷键（即使在本地使用）";
+"Forward all keyboard shortcuts and hotkeys" = "转发所有键盘快捷键和热键";
+"Configure input settings, like keyboard behaviour, for this VNC connection." = "为此VNC连接配置输入设置，例如键盘行为.";
+"When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Security & Privacy' pane of System Preferences, then activate Royal TSX in the 'Accessibility' section." = "启用'{0}' 时, Royal TSX需要“可访问性”权限。单击下面的按钮以打开“系统偏好设置”的“安全性和隐私”窗格，然后在“辅助功能”部分中激活Royal TSX。.";
+"Paste to Remote Clipboard" = "粘贴到远程剪贴板";
+"Automatically show data" = "自动显示数据";
+
+"Automatically disconnect sessions on sleep" = "自动断开睡眠会话";
+"When your computer goes to sleep and this setting is enabled, all sessions will automatically be disconnected. When your computer wakes after sleeping you'll be prompted to reconnect to those sessions." = "当计算机进入睡眠状态并启用此设置时，所有会话将自动断开连接。当计算机在睡眠后唤醒时，系统将提示您重新连接到这些会话s.";
+
+"Configure display settings, like the scaling mode, for this VNC connection." = "为此VNC连接配置显示设置，例如缩放模式.";
+"Enable Scaling" = "启用缩放";
+
+"The Chicken VNC specific SSH tunneling feature is deprecated and will be removed in a future update! Please use Secure Gateways instead." = "Chicken VNC特定的SSH隧道功能已弃用，在以后的更新中将删除！请改用安全网关.";

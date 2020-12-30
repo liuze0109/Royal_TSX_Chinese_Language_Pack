@@ -1,0 +1,51 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"Windows Services" = "Windows 服务";
+"Windows Services Connection Settings" = "Windows 服务连接设置";
+"Windows Services Template Settings" = "Windows 服务模板设置";
+"Windows Services Default Settings" = "Windows 服务默认设置";
+
+"Windows Services Connections allow you to display Windows Services of one or more computers and change their state. By using the '...' button next to the Computer Name field you can enter multiple entries." = "Windows服务连接允许您显示一台或多台计算机的Windows服务并更改其状态。通过使用计算机名字段旁边的“…”按钮，您可以输入多个条目.";
+"You have selected multiple services to be stopped." = "您选择了多个要停止的服务.";
+"You have selected multiple services to be started." = "您选择了多个要启动的服务.";
+"You have selected multiple services to be restarted." = "您选择了多个要重新启动的服务.";
+"Service(s)" = "服务";
+"Service Description" = "服务描述";
+"Status" = "状态";
+"Startup Type" = "启动类型";
+"Log On As" = "登录身份";
+"Accept Pause" = "接受暂停";
+"Accept Stop" = "接受停止";
+"CheckPoint" = "检查点";
+"Creation Class Name" = "创建类名";
+"Desktop Interact" = "桌面交互";
+"Error Control" = "错误控制";
+"Exit Code" = "退出代码";
+"Install Date" = "安装日期";
+"Path Name" = "路径名称";
+"Process ID" = "进程 ID";
+"Service Type" = "服务类型";
+"System Name" = "系统名称";
+"Started" = "开启了";
+"Start Service(s)" = "开启服务";
+"Stop Service(s)" = "停止服务";
+"Restart Service(s)" = "重启服务";
+"Running" = "正在运行";
+"Stopped" = "已停止";
+"Intermediate" = "中等的";
+"Unknown" = "未知";
+"Manual" = "手动";
+"Automatic" = "自动";
+"Disabled" = "关闭";
+"Automatically show data" = "自动显示数据";
+"If checked, the data is shown automatically." = "如果选中，数据将自动显示.";
+"Change Startup Type" = "更改启动类型";
+"Configure filter settings to display and work with a subset of records." = "配置筛选器设置以显示和使用记录子集.";
+"Filter String" = "筛选字符串";
+"&Fields" = "&区域";
+"&Operator" = "&操作员";
+"State" = "状态";
+"&Test" = "&测试";
+"Click to test if your query can be executed successfully." = "单击以测试查询是否可以成功执行.";

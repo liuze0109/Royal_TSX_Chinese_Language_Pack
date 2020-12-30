@@ -1,0 +1,39 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"Hyper-V" = "Hyper-V";
+"Hyper-V Connection Settings" = "Hyper-V 连接设置";
+"Hyper-V Template Settings" = "Hyper-V 模板设置";
+"Hyper-V Default Settings" = "Hyper-V 默认设置";
+"Hyper-V instance(s)" = "Hyper-V 实例";
+"Hyper-V Connections allow you to display Hyper-V instances of one or more Hyper-V hosts. By using the '...' button next to the Computer Name field you can enter multiple entries." = "Hyper-V连接允许您显示一个或多个Hyper-V主机的Hyper-V实例。通过使用“计算机名称”字段旁边的“ ...”按钮，您可以输入多个条目.";
+"State" = "状态";
+"Health" = "健康";
+"Operational Status" = "活动状态";
+"Uptime" = "上线时间";
+"Last State Change" = "上次状态更改";
+"Last Config Change" = "上次配置更改";
+"Install Date" = "安装日期";
+"Process ID" = "进程 ID";
+"ID" = "ID";
+"Start Hyper-V instance(s)" = "开启 Hyper-V 实例";
+"Stop Hyper-V instance(s)" = "关闭 Hyper-V 实例";
+"Save state of Hyper-V instance(s)" = "保存 Hyper-V 实例状态";
+"Pause Hyper-V instance(s)" = "挂起 Hyper-V 实例";
+"Connect (Ad hoc)" = "连接 (Ad hoc)";
+"Start" = "开启";
+"Stop" = "停止";
+"Save State" = "保存状态";
+"Pause" = "挂起";
+"Are you sure you want to start the selected Hyper-V instance(s)?" = "确定要启动所选的Hyper-V实例吗？";
+"Are you sure you want to stop the selected Hyper-V instance(s)?" = "确定要停止所选的Hyper-V实例吗？";
+"Are you sure you want to save the state of the selected Hyper-V instance(s)?" = "确定要保存所选的Hyper-V实例状态吗？";
+"Are you sure you want to pause the selected Hyper-V instance(s)?" = "确定要挂起所选的Hyper-V实例吗？";
+"Automatically show data" = "自动显示数据";
+"If checked, the data is shown automatically." = "如果选中，数据将自动显示.";
+"Assigned Memory" = "分配的内存";
+"CPU Usage" = "CPU 使用率";
+"Processor Load History" = "处理器加载历史记录";
+"State Value" = "状态值";
+"Include Performance Data" = "包括性能数据";

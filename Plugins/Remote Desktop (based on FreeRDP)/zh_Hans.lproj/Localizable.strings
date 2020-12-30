@@ -1,0 +1,283 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+// Error Descriptions
+"No error" = "没有错误";
+"The connection timed out." = "连接超时.";
+"The host name could not be resolved." = "无法解析计算机名称.";
+"There was an error connecting." = "连接时出错.";
+"You canceled the connection." = "您取消了连接.";
+"Network Error: The computer name could not be resolved or a connection timeout occurred." = "网络错误：无法解析计算机名称或连接超时.";
+"DNS Error: The computer name could not be resolved." = "DNS错误：无法解析计算机名称.";
+"The connection could not be established" = "无法建立连接";
+"IPC Error: Failed to register IPC channel" = "IPC错误：无法注册IPC通道";
+"IPC Error: Native Plugin not found" = "IPC错误：找不到本机插件";
+"(Error Code: {0})" = "(错误码: {0})";
+
+"Official Royal TSX RDP Plugin" = "官方 Royal TSX RDP插件";
+
+"Remote Desktop Connection Settings" = "远程桌面连接设置";
+"Remote Desktop Template Settings" = "远程桌面模板设置";
+"Remote Desktop Default Settings" = "远程桌面默认设置";
+"Remote Desktop" = "远程桌面";
+"Advanced" = "高级";
+"Notes" = "记录";
+
+// Property Page Rdp Main
+"With a Remote Desktop connection you can connect to remote computers supporting RDP (Remote Desktop Protocol, Standard Port is 3389). You can change the port in the Advanced section." = "通过远程桌面连接，您可以连接到支持RDP（远程桌面协议，标准端口为3389）的远程计算机。您可以在此页面上更改端口和其他基本设置.";
+"The \"Display Name\" must not be empty." = " \"显示名称\" 不能为空.";
+"The \"Computer Name\" must not be empty." = " \"计算机名称\" 不能为空.";
+
+// Property Page Rdp Advanced
+"Connection" = "连接";
+"Custom Port:" = "自定义端口:";
+"Port" = "端口号";
+"Console/Admin Session" = "控制台/管理会话";
+"Compression" = "压缩";
+"Authentication" = "认证";
+"Network Level Authentication" = "网络级身份验证（NLA）";
+"Other" = "其他";
+"Bitmap Caching" = "位图缓存";
+"Keep-alive" = "保持连接";
+
+// Property Page Rdp Advanced Display
+"Display Options" = "显示选项";
+"Colors:" = "颜色:";
+"256 Colors (8 bit)" = "256 颜色 (8 bit)";
+"High Color (15 bit)" = "高色彩 (15 bit)";
+"High Color (16 bit)" = "高色彩 (16 bit)";
+"True Color (24 bit)" = "真彩色 (24 bit)";
+"True Color (32 bit)" = "真彩色 (32 bit)";
+"You can set the desktop size to fill the client area (\"Auto Expand\") or you specify a custom desktop size." = "您可以设置桌面大小以填充客户区 (\"自动展开\") 也可以指定自定义桌面大小.";
+"Desktop Size:" = "桌面尺寸:";
+"Auto Expand" = "自动展开";
+"Custom Size" = "自定义大小";
+"Width:" = "宽度:";
+"Height:" = "高度:";
+"Resize Mode:" = "调整大小模式:";
+"Scroll Bars" = "滚动条";
+"Smart Sizing" = "智能尺寸";
+"Smart Reconnect" = "智能重新连接";
+"Decreasing the window size will show scroll bars in the remote session." = "减小窗口大小将在远程会话中显示滚动条.";
+"Changing the window size will scale the remote desktop." = "更改窗口大小将缩放远程桌面.";
+"Changing the window size will force a reconnect, so that the remote desktop will adapt to the new size." = "更改窗口大小将强制重新连接或触发远程主机上的分辨率更改（需要RDP 8.1），以便远程桌面将适应新的大小.";
+
+// Property Page Rdp Advanced Performance
+"Performance" = "性能";
+"On this page you can tweak RDP performance options. To improve performance, check only the boxes for the settings you really need." = "在此页面上，您可以调整RDP性能选项。要提高性能，请仅选中您真正需要的设置框.";
+"Desktop background" = "桌面背景";
+"Menu and window animations" = "菜单和窗口动画";
+"Show window contents while dragging" = "拖动时显示窗口内容";
+"Font smoothing" = "字体平滑";
+"Visual styles" = "视觉风格";
+"Desktop composition" = "桌面组成";
+"Text cursor blinking" = "文字光标闪烁";
+"Mouse cursor shadow" = "鼠标光标阴影";
+"Choose your connection speed to optimize performance:" = "选择连接速度以优化性能:";
+"Allow the following:" = "允许以下:";
+"Custom" = "自定义";
+"Modem (56 Kbps)" = "调制解调器 (56 Kbps)";
+"Low-speed broadband (256 Kbps - 2 Mbps)" = "低速宽带 (256 Kbps - 2 Mbps)";
+"High-speed broadband (2 Mbps - 10 Mbps)" = "高速宽带 (2 Mbps - 10 Mbps)";
+"LAN or WAN (10 Mbps or higher)" = "局域网或广域网 (10 Mbps or higher)";
+"Satellite (2 Mbps - 16 Mbps with latency)" = "卫星 (2 Mbps - 16 Mbps with latency)";
+"WAN (10 Mbps or higher with high latency)" = "广域网 (10 Mbps or higher with high latency)";
+"LAN (10 Mbps or higher)" = "局域网 (10 Mbps or higher)";
+"Detect connection quality automatically" = "自动检测连接质量";
+
+// Property Page Rdp Advanced Redirection
+"Redirection" = "重新定位";
+"Audio" = "声音";
+"Bring to this computer" = "带到这台电脑";
+"Leave at remote computer" = "离开远程计算机";
+"Do not play" = "不要播放";
+"Record audio from this computer" = "录制来自此计算机的音频";
+"Choose the devices and resources on this computer that you want to use in your remote session." = "选择要在远程会话中使用的此计算机上的设备和资源.";
+"Printers" = "打印机";
+"Disk drives" = "磁盘驱动器";
+"All disk drives" = "所有磁盘驱动器";
+"Home folder" = "主文件夹";
+"Documents folder" = "文稿文件夹";
+"Other folder" = "其他文件夹";
+"Other folder(s)" = "其他文件夹";
+
+// Property Page Rdp Advanced Keyboard
+"Keyboard" = "键盘";
+"On this page you can tweak options related to how the RDP connection handles your keyboard." = "在此页面上，您可以调整与远程桌面连接如何处理键盘有关的选项.";
+"Keyboard Layout" = "键盘布局";
+"Do not set a keyboard layout" = "不要设置键盘布局";
+"Custom Keyboard Layout" = "自定义键盘布局";
+"Windows Keys Passthrough" = "Windows键直通";
+"Send key presses as Unicode" = "将按键作为Unicode发送";
+
+// Property Page Rdp Advanced Program
+"Program" = "程序";
+"Specify a program to be started on the remote server upon connect." = "指定连接后要在远程服务器上启动的程序.";
+"Program Configuration" = "程序配置";
+"Working Directory" = "工作目录";
+
+// Property Page Rdp Advanced Gateway
+"Gateway" = "网关";
+"Use Gateway Server" = "使用网关服务器";
+"Never" = "从不";
+"Always" = "总是";
+"On Demand" = "一经请求";
+"Logon Method" = "登录方式";
+"Use from this connection" = "通过此连接使用";
+"Ask for credentials on connect" = "询问连接凭据";
+"Connect from anywhere! Configure settings to connect through Remote Desktop Gateway when working remotely." = "从任何地方连接！配置设置以在远程工作时通过远程桌面网关连接.";
+"Remote Desktop Gateway support is currently HIGHLY EXPERIMENTAL and not ready for production use. You might encounter serious bugs or not be able to use the feature in your environment at all." = "远程桌面网关支持目前处于试验阶段。您可能会遇到错误，或者取决于您的环境或许根本无法使用该功能.";
+
+"The identity of the remote computer cannot be verified. (Subject: {0})\nDo you want to connect anyway?" = "无法验证远程计算机的身份. (标题: {0})\n您仍然要连接吗?";
+"The identity of the remote computer ({0}) cannot be verified.\nDo you want to connect anyway?" = "远程计算机的身份 ({0}) 无法验证.\n您仍然要连接吗?";
+"Because the identity of the remote computer couldn't be verified the connection attempt was cancelled." = "由于无法验证远程计算机的身份，因此取消了连接尝试.";
+
+"Authentication Level" = "认证等级";
+"Always connect, even if authentication fails" = "始终连接，即使身份验证失败";
+"Do not connect if authentication fails" = "如果身份验证失败，请不要连接";
+"Warn me if authentication fails" = "验证失败时警告我";
+
+"Use full Retina resolution (if available)" = "使用完整的Retina分辨率（如果支持的话）";
+"Multi Monitor Remote Desktop connections are only supported for display configurations with matching scale factors! Falling back to embedded mode." = "只有具有匹配比例的显示配置才支持多监视器远程桌面连接！退回到嵌入式模式.";
+"Multi Monitor Remote Desktop connections are only supported when 'Displays have separate Spaces' is disabled in the macOS preferences. Falling back to embedded mode." = "仅在macOS首选项中禁用了“显示器具有单独的空间”时，才支持多监视器远程桌面连接。退回到嵌入式模式.";
+
+"Hyper-V" = "Hyper-V";
+"Configure this connection to be a standard RDP connection or a connection supporting Hyper-V guests. You can also change the default Hyper-V proxy port or specify a particular Hyper-V instance to connect to by default." = "将此连接配置为标准RDP连接或支持Hyper-V guest虚拟机的连接。您还可以更改默认的Hyper-V代理端口或指定默认情况下要连接的特定Hyper-V实例.";
+"Hyper-V Mode" = "Hyper-V Mode";
+"Standard RDP connection (Default)" = "标准 RDP 连接 (默认)";
+"Hyper-V host, show VM instances in Dashboard" = "Hyper-V 主机, 在仪表板中显示VM实例";
+"Hyper-V host, connect to a specific instance" = "Hyper-V 主机, 连接到特定实例";
+"Instance ID" = "实例 ID";
+"Clipboard" = "剪切板";
+
+"Error Code" = "错误代码";
+"An unknown error has occurred." = "出现未知错误.";
+"An error occurred while resolving the remote computer's name." = "解析远程计算机的名称时发生错误.";
+"The specified computer name could not be found." = "找不到指定的计算机名称.";
+"An error occurred during TLS handshake." = "TLS握手期间发生错误.";
+"An authentication error has occurred. Please verify your credentials." = "发生验证错误。请验证您的凭据.";
+"IPC Error: Failed to register IPC channel" = "IPC错误：无法注册IPC通道.";
+"IPC Error: Native Plugin not found" = "IPC错误：找不到本机插件。";
+
+"Maximum Reconnect Attempts" = "最大重新连接尝试";
+"Add Folder" = "添加文件夹";
+"Remove Folder" = "移除文件夹";
+"Select or specify gateway credentials" = "选择或指定网关凭据";
+"Maximize" = "最大化";
+"Load Balance Info" = "负载平衡信息";
+"Send 'Ctrl-Alt-Delete" = "发送 'Ctrl-Alt-Delete'按键";
+"Send Key" = "发送按键";
+"Insert" = "插入";
+"Forward Delete" = "直接删除";
+"Home" = "Home";
+"End" = "End";
+"Page Up" = "Page Up";
+"Page Down" = "Page Down";
+"Num Lock" = "Num Lock";
+"Menu" = "菜单";
+"Use enhanced session mode" = "使用增强会话模式";
+"Enhanced session mode requires a supported guest operating system, and may require additional configuration inside the virtual machine." = "增强的会话模式需要受支持的客户机操作系统，并且可能需要在虚拟机内部进行其他配置.";
+"More information is available [[[here]]]." = "提供更多信息 [[[这里]]].";
+"Input" = "输入";
+"You can use this page to change advanced Remote Desktop settings like the authentication level." = "您可以使用此页面来更改高级远程桌面设置，例如身份验证级别.";
+"Use Hardware Acceleration" = "使用硬件加速";
+"Enable for higher performance. Disable to enhance battery life." = "启用以获得更高的性能。禁用以延长电池寿命.";
+"Limit Mouse Event Rate" = "限制鼠标事件率";
+"Enable for higher battery life. Disable for smoother performance." = "启用以延长电池寿命。禁用以获得更平滑的性能.";
+"Smooth Mouse Scrolling" = "平滑的鼠标滚动";
+"Enable to get smooth mouse scrolling in the remote session." = "启用以使远程会话中的鼠标平滑滚动.";
+"TLS Encryption" = "TLS 加密";
+"Smart Cards" = "智能卡";
+"Automatically show data" = "自动显示数据";
+"If checked, the data is shown automatically." = "如果选中，数据将自动显示.";
+"Automatically retrieve Session information" = "自动检索会话信息";
+"If checked, the terminal sessions dashboard will automatically retrieve terminal session information from the remote host." = "如果选中，则终端会话仪表板将自动从远程主机检索终端会话信息。.";
+"Automatically retrieve Hyper-V information" = "自动检索Hyper-V信息";
+"If checked, the Hyper-V dashboard will automatically retrieve instance information from the remote host." = "如果选中，Hyper-V仪表板将自动从远程主机检索实例信息。.";
+"Use Credentials" = "使用凭证";
+"If checked, the configured credentials will be used to retrieve the dashboard information if necessary." = "如果选中，则必要时将使用配置的凭据检索仪表板信息.";
+"Request Control" = "请求控制";
+"Stop Sharing" = "停止共享";
+"Connection Speed" = "连接速率";
+"Glyph Caching" = "字形缓存";
+
+"Automatically disconnect sessions on sleep" = "自动断开睡眠会话";
+"When your computer goes to sleep and this setting is enabled, all sessions will automatically be disconnected. When your computer wakes after sleeping you'll be prompted to reconnect to those sessions." = "当计算机进入睡眠状态并启用此设置时，所有会话将自动断开连接。当计算机在睡眠后唤醒时，系统会提示您重新连接到这些会话.";
+
+"Enable Debug Logging" = "启用调试日志记录";
+"Enable to allow debug logging. Caution: Dramatically reduces performance!" = "启用以允许调试日志记录。注意：会显着降低性能!";
+
+"RDP8 Graphics Pipeline" = "RDP8图形管线";
+"Cache Size" = "缓存大小";
+"Full (higher memory but low bandwidth usage)" = "全部（更高的内存，但带宽使用率较低）";
+"Small (smaller memory footprint but higher bandwidth usage)" = "较小（较小的内存占用空间，但带宽使用率较高）";
+"Thin Client Mode (Codecs other than Win7 SP1 RemoteFX are disabled)" = "精简客户端模式（禁用Win7 SP1 RemoteFX以外的编解码器）";
+
+"Transport Type" = "传输类型";
+"Automatic" = "自动的";
+"RPC" = "RPC";
+"HTTP" = "HTTP";
+
+"Seconds" = "秒";
+"Maximum Retries" = "最大尝试次数";
+"Remote Desktop Gateway" = "远程桌面网关";
+
+"Restricted Admin Mode" = "受限管理员模式";
+"Enabling this setting also implicitly enables Console/Admin Session." = "启用此设置也会隐式启用控制台/管理会话.";
+
+"Automatically switch to full screen space" = "自动切换到全屏空间";
+"This setting controls whether or not to automatically switch to the full screen space a connection is in when the tab is selected." = "此设置控制在选择选项卡时是否自动切换到连接所在的全屏空间.";
+"Use Layer-based Rendering" = "使用基于图层的渲染";
+"Enable for higher performance and less power consumption." = "实现更高的性能和更低的功耗.";
+"Zoom In" = "放大";
+"Zoom Out" = "缩小";
+
+"Convert ⌃⇧+click to right-click" = "转换 ⌃⇧+单击为右键";
+"Enable to convert ⌃⇧+click to right-click." = "开启转换 ⌃⇧+单击为右键.";
+
+"Scale Factor" = "比例";
+
+"An authentication error occurred. Login failed. Please verify your credentials." = "发生认证错误。登录失败。请验证您的凭据.";
+"An authentication error occurred. Wrong password. Please verify your credentials." = "发生认证错误。密码错误。请验证您的凭据.";
+"An authentication error occurred. Your password is expired." = "发生认证错误。您的密码已过期.";
+"An authentication error occurred. Password change required." = "发生认证错误。需要更改密码.";
+"An authentication error occurred. Access has been denied." = "发生认证错误。访问被拒绝.";
+"An authentication error occurred. Your user account is disabled." = "发生认证错误。您的用户帐户已禁用.";
+"An authentication error occurred. The username and password are correct, but there is an account restriction on the user account (such as valid workstation, valid logon hours, etc.)." = "发生认证错误。用户名和密码正确，但是用户帐户具有帐户限制（例如有效的工作站，有效的登录时间等）.";
+"An authentication error occurred. Your user account is locked out." = "发生认证错误。您的用户帐户已被锁定.";
+"An authentication error occurred. Your user account is expired." = "发生认证错误。您的用户帐户已过期.";
+"An authentication error occurred. The requested type of logon has not been granted." = "发生认证错误。所请求的登录类型尚未被授予.";
+"Queue Input Events" = "队列输入事件";
+
+"Map ⇧ Shift to" = "映射 ⇧ Shift 到";
+"Map ⌃ Control to" = "映射 ⌃ Control 到";
+"Map ⌥ Option to" = "映射 ⌥ Option 到";
+"Map ⌘ Command to" = "映射 ⌘ Command 到";
+"⇧ Shift" = "⇧ Shift";
+"⌃ Ctrl" = "⌃ Ctrl";
+"⌥ Alt" = "⌥ Alt";
+"Win" = "Win";
+"Rendering Engine" = "渲染引擎";
+"Core Graphics (Quartz)" = "核心显卡（Quartz）";
+"OpenGL" = "OpenGL";
+"OpenGL (Layer-based)" = "OpenGL (Layer-based)";
+"Gateway Mode" =  "网关模式";
+"Use Gateway from parent" = "从父级使用网关";
+"Use an existing Gateway" = "使用现有的网关";
+"Specify Gateway settings" = "指定网关设置";
+"An unknown error occurred while launching the FreeRDP helper process{0}.\n\nThis usually means that either:\n* The Royal TSX installation is corrupt\n* A low-level OS error occurred\n\nPlease try re-installing Royal TSX and the FreeRDP plugin and rebooting your Mac." = "启动FreeRDP帮助程序进程{0}时发生未知错误.\n\n这通常表示以下任何一种情况：:\n* Royal TSX 已损坏\n* 发生低级操作系统错误\n\n请尝试重新安装Royal TSX和FreeRDP插件，然后重新启动您的Mac.";
+"Break" = "中断";
+"Metal" = "金属";
+
+"Proxy Settings" = "代理设置";
+"Configure whether or not to use a proxy server and which proxy type should be used to connect to the server." = "配置是否使用代理服务器以及应使用哪种代理类型连接到服务器.";
+"Proxy Mode" = "代理模式";
+"No Proxy (Direct Connection)" = "无需代理 (直连)";
+"Proxy Server" = "代理服务器";
+"Logon Method" = "登录方式";
+"Experimental" = "实验性的";
+"Password contains Smart Card PIN" = "密码包含智能卡PIN码";
+"When both, Smart Card redirection and this setting are enabled, the specified password is treated as the Smart Card PIN." = "同时启用智能卡重定向和此设置时，将指定的密码视为智能卡PIN.";
+"Send TCP Keep-Alive packets" = "发送 TCP 活动数据包";
+"Enable to instruct FreeRDP to send TCP keep-alive packets to keep the connection alive." = "启用以指示FreeRDP发送TCP保持活动数据包以保持连接有效.";

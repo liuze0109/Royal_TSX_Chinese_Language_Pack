@@ -1,0 +1,60 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"Windows Processes" = "Windows 进程";
+"Windows Processes Connection Settings" = "Windows进程连接设置";
+"Windows Processes Template Settings" = "Windows进程模板设置";
+"Windows Processes Default Settings" = "Windows进程默认设置";
+
+"Process(es)" = "进程";
+"Windows Processes Connections allow you to display running Windows Processes from one or more computers. By using the '...' button next to the Computer Name field you can enter multiple entries." = "Windows进程连接允许您显示一台或多台计算机上正在运行的Windows进程。通过使用计算机名字段旁边的“…”按钮，您可以输入多个条目。";
+"Terminate Process(es)" = "终止进程";
+"You have selected multiple processes to be terminated." = "您选择了多个要终止的进程.";
+"You have selected one process to be terminated." = "您选择了1个要终止的进程.";
+"Process ID" = "进程 ID";
+"Command Line" = "命令行";
+"Creation Class Name" = "创建类名";
+"Creation Date" = "创建日期";
+"CSName" = "CS名称";
+"CSCreationClassName" = "CS创建类名";
+"Executable Path" = "执行路径";
+"Execution State" = "执行状态";
+"Handle Count" = "句柄数";
+"Install Date" = "安装日期";
+"Kernel Mode Time" = "内核模式时间";
+"Maximum Working Set Size" = "最大工作集大小";
+"Minimum Working Set Size" = "最小工作集大小";
+"OSCreationClassName" = "系统创建类名";
+"OSName" = "系统名称";
+"Other Operation Count" = "其他操作计数";
+"Other Transfer Count" = "其他传输计数";
+"Page Faults" = "页面错误";
+"Page File Usage" = "页面文件使用";
+"Parent Process ID" = "父进程 ID";
+"Peak Page File Usage" = "页面文件使用峰值";
+"Peak Virtual Size" = "峰值虚拟大小";
+"Peak Working Set Size" = "峰值工作集大小";
+"Priority" = "优先";
+"Private Page Count" = "专用页计数";
+"Handle" = "句柄";
+"Quota Non Paged Pool Usage" = "配额非分页池使用率";
+"Quota Paged Pool Usage" = "配额分页池使用率";
+"Quota Peak Non Paged Pool Usage" = "配额峰值非分页池使用率";
+"Quota Peak Paged Pool Usage" = "配额峰值分页池使用率";
+"Read Operation Count" = "读取操作计数";
+"Read Transfer Count" = "读取传输计数";
+"Session ID" = "会话 ID";
+"Status" = "状态";
+"Termination Date" = "终止日期";
+"Thread Count" = "线程数";
+"User Mode Time" = "用户模式时间";
+"Virtual Size" = "虚拟大小";
+"Windows Version" = "Windows版本";
+"Working Set Size" = "工作集大小";
+"Write Operation Count" = "写入操作计数";
+"Write Transfer Count" = "写入传输计数";
+"Automatically show data" = "自动显示数据";
+"If checked, the data is shown automatically." = "如果选中，数据将自动显示.";
+"Get &Process Owner" = "获取 & 进程所有者";
+"Process Owner" = "进程所有者";

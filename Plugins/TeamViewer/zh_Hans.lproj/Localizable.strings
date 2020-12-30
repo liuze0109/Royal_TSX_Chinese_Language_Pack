@@ -1,0 +1,35 @@
+/*
+CHINESE LANGUAGE FILE BY LIUZE
+*/
+
+"TeamViewer" = "TeamViewer";
+"TeamViewer Connection" = "TeamViewer 连接";
+"TeamViewer Connection Settings" = "TeamViewer 连接设置";
+"TeamViewer Template Settings" = "TeamViewer 模板设置";
+"TeamViewer Default Settings" = "TeamViewer 默认设置";
+
+"A TeamViewer connection allows you to remote control computers running TeamViewer. Other connection types like Meeting, VPN, File Transfer and viewing the TeamViewer Management Console are also supported." = "TeamViewer连接允许您远程控制运行TeamViewer的计算机。还支持其他连接类型，如会议、VPN、文件传输和查看TeamViewer管理控制台.";
+"Please choose the connection type:" = "请选择连接类型:";
+"TeamViewer was not found at '{0}'. Do you want to locate it now?" = "TeamViewer 在 '{0}' 发现. 您想现在定位它吗?";
+"Yes, locate TeamViewer" = "说的, 定位 TeamViewer";
+"Failed to locate TeamViewer." = "定位 TeamViewer 失败.";
+"An error occurred while launching TeamViewer." = "启动 TeamViewer 时出错.";
+"An error occurred while parsing the URL." = "解析URL时出错.";
+"Custom TeamViewer Path" = "自定义TeamViewer 路径";
+"Automatically show Management Console" = "自动显示管理控制台";
+"Remote Control" = "远程控制";
+"File Transfer" = "文件传输";
+"Meeting" = "会议";
+"VPN" = "VPN";
+"Management Console" = "管理控制台";
+"Prompt for Type" = "提示输入类型";
+"TeamViewer ID" = "TeamViewer ID";
+"The \"TeamViewer ID\" must not be empty." = " \"TeamViewer ID\" 不能为空.";
+"Connection Type" = "连接类型";
+"TeamViewer Password" = "TeamViewer 密码";
+"Starting TeamViewer connection" = "开启 TeamViewer 连接";
+"You may safely close this tab without interrupting the remote connection." = "您可以在不中断远程连接的情况下安全地关闭此选项卡.";
+"TeamViewer connections are launched externally using the TeamViewer application. Unfortunately, TeamViewer doesn't provide an API or SDK that would allow us to embed connections directly in Royal TSX nor are we able to track the state of TeamViewer connections.\n\nIf you want to change this, please report the lack of options for 3rd party developers at TeamViewer's Feedback Portal." = "TeamViewer连接是使用TeamViewer应用程序从外部启动的。遗憾的是，TeamViewer没有提供API或SDK来允许我们直接在Royal TSX中嵌入连接，也无法跟踪TeamViewer连接的状态.\n\n如果要更改此设置，请在TeamViewer的反馈门户上报告缺少第三方开发人员的选项.";
+"Report to TeamViewer" = "给 TeamViewer 反馈";
+"Automatically close the connection tab" = "自动关闭“连接”选项卡";
+"If enabled, the connection tab will be closed immediately after TeamViewer has been started." = "如果启用，则在TeamViewer启动后，“连接”选项卡将立即关闭.";
