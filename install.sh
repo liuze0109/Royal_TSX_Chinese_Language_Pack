@@ -61,5 +61,5 @@ cp -r Plugins/ecda13f4-a5b5-4791-a027-b947008c943f.plugin/Contents/Resources/* ~
 echo "Terminal Services插件汉化完成!"
 
 # 汉化插件中心
-\cp -rf PluginGallery/* ~/Library/Application\ Support/Royal\ TSX/PluginGallery/
+\cp -rf PluginGallery/* /Applications/Royal\ TSX.app/Contents/Resources/PluginGallery/
 echo "插件中心汉化完成!"
