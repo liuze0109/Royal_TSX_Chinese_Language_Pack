@@ -23,8 +23,6 @@ Royal_TSX的简体中文汉化包，适用于macOS系统。汉化过程中，以
 
 其中“Resources”文件夹下的“en.lproj”就代表的是英文语言包。我们需要创建“zh_Hans.lproj”所对应的中文语言包。
 
-【注意】：这里的插件文件夹可能是每台电脑安装后随机生成的，这点有待验证。
-
 |              插件名称               | 路径（可能并不准确）                                         |
 | :---------------------------------: | ------------------------------------------------------------ |
 |                 RDP                 | ~/Library/Application Support/Royal TSX/Plugins/Installed/1c919170-3ee3-437f-9326-a2316a9293a0.plugin/Contents/Resources |
@@ -50,10 +48,16 @@ Royal_TSX的简体中文汉化包，适用于macOS系统。汉化过程中，以
 
 1. 使用finder（访达）打开应用程序文件夹，找到Royal TSX 应用。
 2. 在Royal TSX 应用图标上面点击右键，点击“显示包内容”。
-3. 依次进入“Contents”>“Resources”文件夹。
-4. 把“zh_Hans.lproj”复制进来，但是目前并不生效，正在寻找解决办法。
+3. 依次进入“Contents”>“Resources”>"PluginGallery"文件夹。
+4. 把cn.lproj文件夹复制进来，然后替换index.html和js文件夹下的pluginGallery.js
 
 ## 三、更新日志
+
+2021-06-15 更新日志
+
+1. V5.0.0.18beta版本适配
+
+2. 插件中心和插件汉化
 
 2020-11-18  更新日志
 

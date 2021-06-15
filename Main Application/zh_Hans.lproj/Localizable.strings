@@ -10,6 +10,7 @@
 
 // Main Menu - Royal TSX
 "About Royal TSX" = "关于 Royal TSX";
+"About %@" = "关于 %@";
 "About the good old times" = "关于美好的过去";
 "Preferences" = "首选项";
 "Check for Updates..." = "检查更新...";
@@ -20,6 +21,7 @@
 "Hide Others" = "隐藏其他";
 "Show All" = "显示全部";
 "Quit Royal TSX" = "退出 Royal TSX";
+"Quit %@" = "退出 %@";
 
 // Main Menu - File
 "File" = "文件";
@@ -249,6 +251,7 @@
 "Ad Hoc: {0}" = "Ad Hoc: {0}";
 "You are about to move an object from one document to another document.\nTo prevent duplicate object IDs, Royal TSX will automatically save both documents after the move.\nDo you want to continue?" = "您将要将一个对象从一个文档移动到另一文档.\n防止重复的对象ID，Royal TSX将在移动后自动保存两个文档\n请问要继续吗?";
 "Version {0}" = "版本号 {0}";
+"Version %@" = "版本号 %@";
 "Capture Screenshot" = "截图";
 "Royal TSX Preferences" = "Royal TSX 首选项";
 "General" = "常规";
@@ -716,7 +719,9 @@
 "Hold Shift" = "按住Shift";
 "Release Shift" = "松开Shift";
 "Hold Alt" = "按住Alt";
+"Hold Option/Alt" = "按住 Option/Alt";
 "Release Alt" = "松开Alt";
+"Release Option/Alt" = "松开 Option/Alt";
 "Hold Control" = "按住Control";
 "Release Control" = "松开Control";
 "Hold Command" = "按住Command";
@@ -793,7 +798,7 @@
 "Your selection contains connections that have different plugins assigned to them. Bulk-edit will still work but you'll only be able to modify common properties." = "您选择的连接包含分配了不同插件的连接。批量编辑仍然可以使用，但您只能修改公共属性.";
 "Your selection contains objects of different types. Bulk-edit will still work but you'll only be able to modify common properties." = "您的选择包含不同类型的对象。批量编辑仍然可以使用，但您只能修改公共属性.";
 "External Window" = "扩展窗口";
-"Click this tab's icon to toggle between Overview and Dashboard mode." = "单击此选项卡的图标可在概述和控制台模式之间切换.";
+"To toggle between Overview and Dashboard mode, click the icon of this tab." = "要在概览和仪表板模式之间切换，请单击此选项卡的图标.";
 "An error occurred while removing an installed plugin. Please ensure that the plugin's directory can be deleted by Royal TSX, then restart the application to retry the installation.\nThe plugin is currently installed at: {0}." = "删除已安装的插件时发生错误。请确保Royal TSX可以删除该插件的目录，然后重新启动该应用程序以重试安装。\n该插件当前安装在：: {0}.";
 "External Application" = "扩展应用";
 "Performance View" = "效果视图";
@@ -1855,3 +1860,4 @@
 "Dependent Gateway" = "依赖网关";
 "Multiple Secure Gateways can be used in series for nested tunneling. Specify the dependent Secure Gateway or Royal Server object for nested tunneling." = "多个安全网关可以串联使用以实现嵌套隧道。 为嵌套隧道指定依赖的安全网关或 Royal Server 对象.";
 "Don't ask again" = "不要再询问了";
+"Visit Customer Portal" = "访问客户门户";
