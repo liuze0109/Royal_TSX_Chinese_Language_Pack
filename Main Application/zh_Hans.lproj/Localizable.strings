@@ -257,8 +257,6 @@
 "Document Settings" = "文档设置";
 "Document" = "文档";
 "Folder Settings" = "文件夹设置";
-
-
 "Dynamic Folder Settings" = "动态文件夹设置";
 "Folder Default Settings" = "文件夹默认设置";
 "Dynamic Folder Default Settings" = "动态文件夹默认设置";
@@ -294,6 +292,7 @@
 "Thank you for taking your time to improve Royal TSX!" = "感谢您抽出宝贵的时间来改进 Royal TSX!";
 "An error occurred while submitting the crash report." = "提交崩溃报告时发生错误.";
 "The error was: {0}" = "这个错误是: {0}";
+"The error was: %@" = "这个错误是: %@";
 "Plugin Updates" = "插件升级";
 "Updates for your Plugins are available!" = "您有插件可以升级!";
 "The following Plugins can be updated in the Plugins section of the preferences dialog:" = "可以在首选项对话框的“插件”部分中更新以下插件:";
@@ -330,6 +329,7 @@
 "License Key" = "授权密钥";
 
 
+
 "Seats:" = "授权数:";
 "Number of licenses" = "授权数量";
 "Purchase License" = "购买授权";
@@ -349,7 +349,7 @@
 "Website" = "官网";
 "Quit" = "离开";
 "Expires in {0}" = "将在 {0} 内过期";
-
+"Expires in %@" = "将在 %@ 内过期";
 "days" = "天";
 "Unknown Credential" = "未知的凭据";
 "License information verified.\nThank you for supporting Royal TSX!" = "许可证信息已验证通过.\n感谢您对 Royal TSX 的支持!";
@@ -369,6 +369,10 @@
 "Extended Global License" = "扩展的全球授权";
 "Group License" = "团队授权";
 "Extended Group License" = "扩展的团队授权";
+
+
+"Enterprise License" = "企业版授权";
+"Extended Enterprise License" = "额外的企业版授权";
 "This copy of Royal TSX runs in 'Shareware Mode' and allows you to manage up to 10 connections, 10 credentials and 1 document. Also, AppleScript access is disabled in Shareware Mode.\n\nTo remove this limitations please obtain or enter a license key for Royal TSX." = "Royal TSX的此副本在“共享软件模式”下运行，并允许您管理多达10个连接，10个凭据和1个文档。此外，在共享软件模式下，AppleScript访问也被禁用。\n\n要删除此限制，请获取或输入Royal TSX的许可证密钥.";
 "Buy License" = "购买授权";
 "Open License Dialog" = "打开授权对话框";
@@ -440,6 +444,8 @@
 "&Wait for disconnect task completion" = "&等待断开任务完成";
 "No Task Selected" = "没有选择任务";
 "Unknown Task" = "未知的任务";
+
+
 
 
 
@@ -541,9 +547,12 @@
 
 
 
+
 "Enter Full Screen" = "进入全屏";
+
 "Exit Full Screen" = "退出全屏";
 "Enter Extended Full Screen" = "进入扩展全屏";
+
 "Exit Extended Full Screen" = "退出扩展全屏";
 "Colorize Tabs" = "给选项卡配色";
 "Colorize Tree Items" = "给树条目配色";
@@ -653,11 +662,13 @@
 "Click" = "点击";
 "Focus" = "聚焦";
 "Bundle" = "包";
-"Startup Bundle" = "捆绑启动";
+"Startup Bundle" = "启动包";
+"Personal Bundle" = "个人包";
 "Input Elements" = "输入元件";
 "Email Fields" = "Email 字段";
 "Password Fields" = "密码字段";
 "Checkboxes" = "复选框";
+
 "Input Fields" = "输入框 字段";
 "Hidden Input Fields" = "隐藏输入框";
 "Buttons" = "按钮";
@@ -794,11 +805,13 @@
 "Default Settings" = "默认设置";
 "Application" = "应用";
 
+
 "Remote Desktop Manager" = "远程桌面管理";
 "Remote Desktop Manager Document" = "远程桌面管理文档";
 "The default Remote Desktop Manager document was found in your home directory. Do you want to import data from that document or select another one?" = "在您的主目录中找到默认的远程桌面管理器文档。您要从该文档导入数据还是选择另一文档?";
 "Import default document" = "导入默认文档";
 "Select another document" = "选择另一个文档";
+
 "The default Remote Desktop Manager document could not be found. Do you want to select another document to import data from?" = "找不到默认的远程桌面管理器文档。您是否要选择其他文档以从中导入数据?";
 "Yes, select another document" = "是的，选择另一个文档";
 "Tokens" = "Tokens";
@@ -1056,6 +1069,7 @@
 "The document '{1}' has unsaved changes and needs to be saved before you lock it down.{0}{0}Do you want to save these changes?" = "文档 '{1}' 尚未保存更改，需要将其锁定后再保存.{0}{0}是否要保存这些更改？";
 "Yes, save changes and lock" = "是的，保存更改并锁定";
 "Locked documents must be unlocked with the 'Lockdown' password to remove the lockdown restrictions. Are you sure you want to lock the selected document?" = "必须使用“锁定”密码将锁定的文档解锁，以解除锁定限制。您确定要锁定所选文档吗?";
+
 
 "Yes, lock the document" = "是的, 锁定文档";
 "Yes, unlock the document" = "是的, 解锁文档";
@@ -1349,7 +1363,7 @@
 "Conceal" = "隐藏";
 "Open URL" = "打开URL";
 "Compose Email" = "写E-Mail";
-"Custom Properties" = "自定义属性";
+"Custom Properties" = "自定义属性组";
 "Custom Property" = "自定义属性";
 "Custom properties can be used to store additional information of your objects. Various data formats are available, including protected fields. You can also group properties by using header fields." = "自定义属性可用于存储对象的其他信息。有多种数据格式可用，包括受保护的字段。您还可以使用标题字段对属性进行分组.";
 "Click the 'Plus' button to add new fields..." = "点击“加号”按钮添加新字段...";
@@ -1360,6 +1374,7 @@
 "Screen Sharing files" = "屏幕共享文件";
 "User specific Settings" = "用户特定设置";
 "For some settings, you can choose between saving them in the document (default) or saving them individually for each user (locally). Check the settings you want to save for each user." = "对于某些设置，您可以选择将它们保存在文档中（默认），也可以分别为每个用户保存（本地）。检查您要为每个用户保存的设置.";
+
 
 
 
@@ -1407,6 +1422,8 @@
 "Path to Private Key File" = "私钥文件路径";
 
 
+
+
 "Embed Private Key File" = "嵌入私钥文件";
 "Private Key File Path" = "私钥文件路径";
 "Embedded Private Key File" = "嵌入私钥文件";
@@ -1437,8 +1454,13 @@
 "Clear SSH Host Key" = "清除SSH主机密钥";
 "Successfully cleared SSH Host Key(s)." = "SSH主机密钥已经成功清除.";
 "An error occurred while clearing SSH Host Key(s): {0}" = "清除SSH主机密钥时发生错误: {0}";
+"Remove SSH Host Key from Known Hosts" = "从 Known_hosts 中删除SSH 主机密钥";
+"Successfully removed SSH Host Key from Known Hosts.\n\nDetails:\n{0}" = "从Known_hosts 中删除SSH 主机密钥成功.\n\n详情:\n{0}";
+"Successfully removed SSH Host Key from Known Hosts." = "从Known_hosts 中删除SSH 主机密钥成功..";
+"Removing SSH Host Key from Known Hosts failed. The most likely reason for this error is that the known_hosts file doesn't contain the specified host.\n\nDetails:\n{0}" = "从已知主机中删除 SSH 主机密钥失败。 此错误最可能的原因是 known_hosts 文件不包含指定的主机。\n\n详情:\n{0}";
 "Failed to parse {0} .jump files. Please see the log for more information." = "{0} .jump 文件解析失败. 请查看日志以获取更多信息.";
 "The specified Royal Server object could not be found." = "找不到指定的Royal Server对象.";
+"The Royal Server object could not be found." = "找不到Royal Server对象.";
 "Error accessing document: {0}" = "访问文档时出错: {0}";
 "To open a document from one of your Royal Server installations, first select the Royal Server object, then select the document." = "要从其中一个Royal Server安装中打开文档，请首先选择Royal Server对象，然后选择该文档.";
 "Open" = "打开";
@@ -1551,6 +1573,7 @@
 "Select Next Tab Group" = "选择下一个选项卡组";
 "Select Previous Tab Group" = "选择上一个选项卡组";
 
+
 "Common Settings" = "常用设置";
 "Common Connection Settings" = "常用连接设置";
 "Common Properties" = "公共属性";
@@ -1585,6 +1608,7 @@
 "The JSON is valid." = "JSON 无效.";
 "The JSON contains errors: {0}" = "JSON 中包含错误: {0}";
 "Get Content Script" = "获取内容脚本";
+
 
 "Dynamic Folder Script" = "动态文件夹脚本";
 "Dynamic Credential Script" = "动态凭证脚本";
@@ -1808,3 +1832,26 @@
 "An error occured while disabling '{0}'. At least one {1} algorithm needs to be enabled." = "停用时'{0}'发生错误 . 至少1个 {1} 需要启用算法.";
 "At least one {0} algorithm needs to be enabled." = "至少1个 {0} 需要启用算法.";
 "Please wait" = "请稍等";
+"Colorful active Connection Icons" = "多彩的活动连接图标";
+"Crash Report" = "崩溃报告";
+"\"%@\" must not be empty." = "\"%@\" 不允许为空.";
+"The source has not been found. Would you like to edit the document's properties instead?" = "来源尚未找到。 您想改为编辑文档的属性吗？";
+"Apply Inheritance" = "应用继承";
+"Configures all objects in this folder and all subfolders to use the configuration from this folder." = "配置此文件夹和所有子文件夹中的所有对象以使用此文件夹中的配置.";
+"Edit Source" = "编辑源";
+"Edit the properties of the source folder that the configuration is based on." = "编辑配置所基于的源文件夹的属性.";
+"All objects in this folder and all subfolders will be configured to use the configuration from this folder." = "此文件夹和所有子文件夹中的所有对象都将配置为使用此文件夹中的配置.";
+"Please note that this change will be applied instantly and can't be reverted by pressing 'Discard changes'." = "请注意，此更改将立即应用，并且无法通过按“放弃更改”来恢复.";
+"[[[More Information]]]" = "[[[更多信息]]]";
+"Favorite Credentials" = "收藏的凭据";
+"All Credentials" = "所有凭据";
+"The document encryption password has been changed. To continue, please enter the new encryption password." = "文档加密密码已更改。 要继续，请输入新的加密密码.";
+"Changing the encryption or lockdown settings in a document configured as a 'Shared (Merge)' document requires each team member to re-enter the new password in order to continue working with the document." = "更改配置为“共享（合并）”文档的文档中的加密或锁定设置需要每个团队成员重新输入新密码才能继续使用该文档.";
+"It is highly recommended to provide the new password to the team prior to saving the document." = "强烈建议在保存文档之前向团队提供新密码.";
+"Open in Web Browser" = "使用浏览器打开";
+"Clear Filters" = "清除过滤器";
+"No Gateway" = "无网关";
+"No Dependent Gateway" = "无依赖网关";
+"Dependent Gateway" = "依赖网关";
+"Multiple Secure Gateways can be used in series for nested tunneling. Specify the dependent Secure Gateway or Royal Server object for nested tunneling." = "多个安全网关可以串联使用以实现嵌套隧道。 为嵌套隧道指定依赖的安全网关或 Royal Server 对象.";
+"Don't ask again" = "不要再询问了";
