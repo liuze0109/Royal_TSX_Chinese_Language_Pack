@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# 获取当前脚本运行目录并切换到工作目录
+basepath=$(cd `dirname $0`; pwd)
+cd $basepath
+
 # 汉化主程序
 cp -r Main\ Application/* /Applications/Royal\ TSX.app/Contents/Resources/
 echo "主程序汉化完成!"
