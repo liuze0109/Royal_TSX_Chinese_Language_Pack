@@ -62,14 +62,13 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Use ligatures" = "使用连字";
 "Character Spacing" = "字符间距";
 "Line Spacing" = "行间距";
-
 "Custom Command" = "自定义命令";
 "Custom Commands" = "自定义命令";
 "Custom Terminal" = "自定义终端";
 "Command:" = "命令:";
 "Command" = "Command";
 "SSH" = "SSH 连接";
-"Telnet" = "Telnet";
+"Telnet" = "Telnet 连接";
 "SSH Connection" = "SSH 连接";
 "Telnet Connection" = "Telnet 连接";
 "Serial Port" = "串行端口";
@@ -185,13 +184,11 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Enable SSH Host Key Mismatch Warning" = "启用SSH主机密钥不匹配警告";
 "Start Logging" = "开始记录";
 "Stop Logging" = "停止记录";
-"Keep Alive Interval" = "保持活动间隔";
+"SSH Keep Alive Interval" = "SSH 保持活动间隔";
 "Interval" = "间隔";
 "seconds (0 to disable)" = "秒 (0 是关闭)";
-
 "Are you sure you want to delete the selected log file(s)?" = "您确定要删除所选的日志文件吗？";
 "Export as Plain Text" = "导出为纯文本";
-
 "When idle, send ASCII code" = "空闲时，发送ASCII码";
 "Default 'ssh' Path" = "默认 'ssh' 路径";
 "Default 'ssh' Version" = "默认 'ssh' 版本";

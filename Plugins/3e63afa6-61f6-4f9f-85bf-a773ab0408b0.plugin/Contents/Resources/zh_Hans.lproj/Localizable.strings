@@ -131,3 +131,6 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Seconds (set to 0 to disable)" = "秒 (设置0为关闭)";
 "On this page you can tweak advanced security settings like disabling certificate and fingerprint warnings or configuring allowed encryption algorithms." = "在此页面上，您可以调整高级安全设置，例如禁用证书和指纹警告或配置允许的加密算法.";
 "General" = "一般";
+"Changing owner and group of '{0}'" = "Changing owner and group of '{0}'";
+"Please change either the owner/group or permissions but not both at once." = "Please change either the owner/group or permissions but not both at once.";
+"Rename" = "Rename";

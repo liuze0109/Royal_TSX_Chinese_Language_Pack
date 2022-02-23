@@ -7,8 +7,6 @@ CHINESE LANGUAGE FILE BY LIUZE
 "The connection timed out." = "连接超时.";
 "The host name could not be resolved." = "无法解析计算机名称.";
 "There was an error connecting." = "连接时出错.";
-
-
 "You canceled the connection." = "您取消了连接.";
 "Network Error: The computer name could not be resolved or a connection timeout occurred." = "网络错误：无法解析计算机名称或连接超时.";
 "DNS Error: The computer name could not be resolved." = "DNS错误：无法解析计算机名称.";
@@ -298,3 +296,4 @@ CHINESE LANGUAGE FILE BY LIUZE
 "The server does not accept saved user credentials and requires that the user enter their credentials for each connection." = "服务器不接受保存的用户凭据，并要求用户为每个连接输入凭据.";
 "The connection's transport layer failed." = "连接的传输层失败.";
 "The connection failed at negotiating security settings." = "协商安全设置时连接失败.";
+"Timeout" = "超时";
