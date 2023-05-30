@@ -141,6 +141,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Use full Retina resolution (if available)" = "使用完整的Retina分辨率（如果支持的话）";
 "Multi Monitor Remote Desktop connections are only supported for display configurations with matching scale factors! Falling back to embedded mode." = "只有具有匹配比例的显示配置才支持多监视器远程桌面连接！退回到嵌入式模式.";
 "Multi Monitor Remote Desktop connections are only supported when 'Displays have separate Spaces' is disabled in the macOS preferences. Falling back to embedded mode." = "仅在macOS首选项中禁用了“显示器具有单独的空间”时，才支持多监视器远程桌面连接。退回到嵌入式模式.";
+"Multi Monitor Remote Desktop connections are only supported when 'Displays have separate Spaces' is disabled in the system settings. Falling back to embedded mode." = "只有在系统设置中禁用“显示器具有单独的空间”时，才支持多显示器远程桌面连接。 回退到嵌入式模式。";
 
 "Hyper-V" = "Hyper-V";
 "Configure this connection to be a standard RDP connection or a connection supporting Hyper-V guests. You can also change the default Hyper-V proxy port or specify a particular Hyper-V instance to connect to by default." = "将此连接配置为标准RDP连接或支持Hyper-V guest虚拟机的连接。您还可以更改默认的Hyper-V代理端口或指定默认情况下要连接的特定Hyper-V实例.";
@@ -297,3 +298,11 @@ CHINESE LANGUAGE FILE BY LIUZE
 "The connection's transport layer failed." = "连接的传输层失败.";
 "The connection failed at negotiating security settings." = "协商安全设置时连接失败.";
 "Timeout" = "超时";
+"Debug Logging is enabled in the Remote Desktop plugin settings. Please note that this can severely impact performance and should only be used for diagnosing issues. Do you want to continue with Debug Logging or do you want to disable it?" = "远程桌面插件设置中启用了调试日志记录。 请注意：这会严重影响性能，并且只能用于诊断问题。 您要继续调试日志记录还是要禁用它？";
+"Continue with Debug Logging" = "继续调试日志记录";
+"Disable Debug Logging and Continue" = "禁用调试日志记录并继续";
+"Gateway Usage Policy ({0})" = "网关使用条款 ({0})";
+"Gateway Service Message ({0})" = "网关服务消息 ({0})";
+"Do you understand and agree to the terms of this policy?" = "您了解并同意本政策的条款吗？";
+"Reconnecting" = "重新连接中";
+"Microphone Redirection" = "麦克风重定向";

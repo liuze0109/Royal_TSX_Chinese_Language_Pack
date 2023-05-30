@@ -41,6 +41,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Cursor Text:" = "光标文字:";
 "Reset" = "重置";
 "Configure advanced settings like the terminal type and the available scrollback lines for terminal connections." = "配置高级设置，如终端类型和用于终端连接的可用回滚线.";
+"Terminal Type" = "终端类型";
 "Terminal Type:" = "终端类型:";
 "Scrollback Lines:" = "回滚线:";
 "Close tab when the session ends" = "会话结束时关闭标签";

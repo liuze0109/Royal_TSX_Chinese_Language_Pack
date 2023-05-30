@@ -37,3 +37,9 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Processor Load History" = "处理器加载历史记录";
 "State Value" = "状态值";
 "Include Performance Data" = "包括性能数据";
+"Running" = "运行中";
+"Enabled" = "已开启";
+"Off" = "关闭";
+"Disabled" = "已禁用";
+"Saved" = "已保存";
+"Paused" = "已暂停";

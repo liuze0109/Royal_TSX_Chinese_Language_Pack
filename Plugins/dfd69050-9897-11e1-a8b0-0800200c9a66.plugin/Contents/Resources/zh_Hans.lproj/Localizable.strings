@@ -46,6 +46,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Forward all keyboard shortcuts and hotkeys" = "转发所有键盘快捷键和热键";
 "Configure input settings, like keyboard behaviour, for this VNC connection." = "为此VNC连接配置输入设置，例如键盘行为.";
 "When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Security & Privacy' pane of System Preferences, then activate Royal TSX in the 'Accessibility' section." = "启用'{0}' 时, Royal TSX需要“可访问性”权限。单击下面的按钮以打开“系统偏好设置”的“安全性和隐私”窗格，然后在“辅助功能”部分中激活Royal TSX。.";
+"When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Privacy & Security' pane of System Settings, then activate Royal TSX in the 'Accessibility' section." = "启用 '{0}' 时, Royal TSX 需要“辅助功能”权限。 单击下面的按钮打开系统设置的“隐私和安全”面板，然后在“辅助功能”部分激活 Royal TSX。";
 "Paste to Remote Clipboard" = "粘贴到远程剪贴板";
 "Automatically show data" = "自动显示数据";
 

@@ -32,7 +32,8 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Forward keyboard shortcuts only if not in use locally" = "仅在本地不使用时转发键盘快捷键";
 "Forward keyboard shortcuts even if in use locally" = "转发键盘快捷键（即使在本地使用）";
 "Forward all keyboard shortcuts and hotkeys" = "转发所有键盘快捷键和热键";
-"When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Security & Privacy' pane of System Preferences, then activate Royal TSX in the 'Accessibility' section." = "当 '{0}' 开启时, Royal TSX需要“可访问性”权限。单击下面的按钮以打开“系统偏好设置”的“安全性和隐私”窗格，然后在“辅助功能”部分中激活Royal TSX。";
+"When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Security & Privacy' pane of System Preferences, then activate Royal TSX in the 'Accessibility' section." = "启用 '{0}' 后, Royal TSX需要“可访问性”权限。单击下面的按钮以打开“系统偏好设置”的“安全性和隐私”窗格，然后在“辅助功能”部分中激活Royal TSX。";
+"When '{0}' is enabled, Royal TSX requires 'Accessibility' permissions. Click the button below to open the 'Privacy & Security' pane of System Settings, then activate Royal TSX in the 'Accessibility' section." = "启用 '{0}' 后，Royal TSX 需要“辅助功能”权限。 单击下面的按钮打开系统设置的“隐私和安全”面板，然后在“辅助功能”部分激活 Royal TSX。";
 "Enable access for assistive devices" = "启用辅助设备的访问权限";
 "With a Screen Sharing connection you can connect to remote computers supporting Apple Remote Desktop/Screen Sharing or VNC (standard port is 5900)." = "通过屏幕共享连接，您可以连接到支持Apple远程桌面/屏幕共享或VNC的远程计算机（标准端口为5900）.";
 "The \"Display Name\" must not be empty." = " \"显示名称\" 不能为空.";
