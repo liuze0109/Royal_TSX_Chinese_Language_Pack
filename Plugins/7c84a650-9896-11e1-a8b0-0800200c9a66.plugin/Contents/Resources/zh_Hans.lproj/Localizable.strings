@@ -67,7 +67,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Custom Commands" = "自定义命令";
 "Custom Terminal" = "自定义终端";
 "Command:" = "命令:";
-"Command" = "Command";
+"Command" = "命令";
 "SSH" = "SSH 连接";
 "Telnet" = "Telnet 连接";
 "SSH Connection" = "SSH 连接";
@@ -80,7 +80,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Destination" = "目的地";
 "Location" = "定位";
 "IP Protocol" = "IP 协议";
-"Secure shell (SSH) supports port forwarding (tunnels). Use this page to configure tunneling (remote and local port forwarding)." = "安全外壳（SSH）支持端口转发（隧道）。使用此页面来配置隧道（远程和本地端口转发）.";
+"Secure shell (SSH) supports port forwarding (tunnels). Use this page to configure tunneling (remote and local port forwarding)." = "SSH 支持端口转发（隧道）。使用此页面来配置隧道（远程和本地端口转发）.";
 "Local" = "本地";
 "Remote" = "远程";
 "Dynamic" = "动态";
@@ -304,3 +304,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Add all from Category" = "从类别中添加所有内容";
 "Add all from all Categories" = "添加所有类别的所有内容";
 "Focus session after right or middle click" = "右键或中键单击后聚焦会话";
+"On this page, you can configure advanced, SSH-specific options for this terminal connection." = "在此页面，您可以为该终端连接配置高级 SSH 特定选项。";
+"Certificate File Path" = "证书文件路径";
+"Certificate file to use with the private key" = "与私钥一起使用的证书文件";
+"OpenSSH certificate to use with the private key specified on the credentials page." = "要与凭证页面上指定的私钥一起使用的 OpenSSH 证书。";

@@ -5,7 +5,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "File Transfer" = "文件传输";
 "File Transfer Connection Settings" = "文件传输设置";
 "File Transfer Template Settings" = "文件传输模板设置";
-"File Transfer Default Settings" = "F文件传输默认设置";
+"File Transfer Default Settings" = "文件传输默认设置";
 "File Transfer connections allow you to browse and transfer files on FTP, SFTP and SCP file servers. The default port for FTP connections is 21, for SFTP and SCP it is 22." = "文件传输连接使您可以浏览和传输FTP，SFTP和SCP文件服务器上的文件。 FTP连接的默认端口为21，SFTP和SCP的默认端口为22.";
 "The \"Computer Name\" must not be empty." = " \"计算机名称\" 不能为空.";
 "Connection Type" = "连接类型";
@@ -134,3 +134,4 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Changing owner and group of '{0}'" = "更改所有者和组 '{0}'";
 "Please change either the owner/group or permissions but not both at once." = "请更改所有者/组或权限，但不要同时更改。";
 "Rename" = "重命名";
+"Authentication Agent" = "认证代理";
