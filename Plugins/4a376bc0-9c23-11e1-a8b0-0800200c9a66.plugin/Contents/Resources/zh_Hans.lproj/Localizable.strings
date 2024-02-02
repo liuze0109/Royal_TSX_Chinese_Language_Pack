@@ -57,3 +57,6 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Actual Size" = "正常大小";
 "Zoom In" = "放大";
 "Zoom Out" = "缩小";
+"Auto Fill Script" = "自动填充脚本";
+"Inject at Document Start" = "在文档头部注入";
+"Inject at Document End" = "在文档底部注入";

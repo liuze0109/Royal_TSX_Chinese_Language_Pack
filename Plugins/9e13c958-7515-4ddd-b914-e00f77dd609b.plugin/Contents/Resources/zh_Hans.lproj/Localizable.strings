@@ -92,11 +92,18 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Host Name" = "主机名称";
 "Host IP" = "主机IP";
 
-"Connect with RDP (Ad hoc)" = "连接 RDP (Ad hoc)";
-"Connect with VNC (Ad hoc)" = "连接 VNC (Ad hoc)";
-"Connect with SSH (Ad hoc)" = "连接 SSH (Ad hoc)";
+"Connect with RDP (Ad hoc)" = "连接 RDP (临时)";
+"Connect with VNC (Ad hoc)" = "连接 VNC (临时)";
+"Connect with SSH (Ad hoc)" = "连接 SSH (临时)";
 "All have DHCP enabled" = "所有都启用了DHCP";
 "All DNS Addresses" = "所有DNS地址";
 "Current license or ESXi version prohibits execution of the requested operation." = "当前许可证或ESXi版本禁止执行请求的操作.";
 "Some actions, like changing the power state and issuing remote control tickets are not supported when using VMware's free licenses. Please install a production license to be able to execute such actions." = "使用VMware的免费许可证时，不支持某些操作，例如更改电源状态和发出远程控制票证。请安装生产许可证以执行此类操作.";
 "Ignore Certificate Errors" = "忽略所有凭证错误";
+"Configure advanced settings, such as port configuration or configure the connection to automatically connect to a specific Virtual Machine's console." = "配置高级设置，如端口配置或配置连接以自动连接到特定虚拟机的控制台。";
+"SSH Port" = "SSH 端口";
+"The SSH port is used for ad hoc Terminal connections to the VMware host." = "SSH 端口用于与 VMware 主机进行临时终端连接。";
+"Automatically connect to Virtual Machine Console" = "自动连接到虚拟机控制台";
+"Virtual Machine ID" = "虚拟机 ID";
+"Specify a Virtual Machine ID (Management Object Reference) to directly start a VMware Remote Console session when establishing the connection." = "指定虚拟机 ID（管理对象参考），以便在建立连接时直接启动 VMware 远程控制台会话。";
+"Connect to Host with SSH (Ad hoc)" = "使用 SSH 连接主机（临时）";

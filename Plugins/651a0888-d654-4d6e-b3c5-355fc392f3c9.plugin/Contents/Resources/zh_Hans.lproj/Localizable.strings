@@ -21,7 +21,7 @@ CHINESE LANGUAGE FILE BY LIUZE
 "Stop Hyper-V instance(s)" = "关闭 Hyper-V 实例";
 "Save state of Hyper-V instance(s)" = "保存 Hyper-V 实例状态";
 "Pause Hyper-V instance(s)" = "挂起 Hyper-V 实例";
-"Connect (Ad hoc)" = "连接 (Ad hoc)";
+"Connect (Ad hoc)" = "临时连接";
 "Start" = "开启";
 "Stop" = "停止";
 "Save State" = "保存状态";
