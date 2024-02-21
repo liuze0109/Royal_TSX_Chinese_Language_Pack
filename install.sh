@@ -43,7 +43,7 @@ check_version() {
 
 # 汉化主程序
 translate_main_app() {
-    cp -R Main\ Application/* "$1/Resources/"
+    cp -R Main\ Application/* "$1/Contents/Resources/"
     echo "主程序汉化完成!"
 }
 
