@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Copyright (c) 2023 Royal Apps GmbH -->
+	<!-- Copyright (c) 2024 Royal Apps GmbH -->
 	<!-- Design and Code by royalapps.com -->
-	<title>Royal TSX Plugins</title>
+	<title>Royal TSX 插件</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="stylesheet" href="css/mac.css" type="text/css" media="screen" />
 	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
@@ -11,9 +11,9 @@
 	<script type="text/javascript" src="js/jquery.tinysort.min.js"></script>
 	<script type="text/javascript" src="js/utils.js"></script>
 	<script type="text/javascript" src="js/config.js"></script>
+	<script type="text/javascript" src="js/language_cn.js"></script>
 	<script type="text/javascript" src="js/language_en.js"></script>
 	<script type="text/javascript" src="js/language_de.js"></script>
-	<script type="text/javascript" src="js/language_cn.js"></script>
 	<script type="text/javascript" src="js/language.js"></script>
 	<script type="text/javascript" src="js/royalAppProxy.js"></script>
 	<script type="text/javascript" src="js/pluginService.js"></script>
@@ -26,11 +26,11 @@
 	<div class="ts_toolbar">
 		<div class="ts_toolbar_button_installed ts_toolbar_button_active">
 			<div class="ts_toolbar_button_icon"></div>
-			<div class="ts_toolbar_button_label ts_localize">Installed Plugins</div>
+			<div class="ts_toolbar_button_label ts_localize">已安装插件</div>
 		</div>
 		<div class="ts_toolbar_button_available ts_toolbar_button">
 			<div class="ts_toolbar_button_icon"></div>
-			<div class="ts_toolbar_button_label ts_localize">Available Plugins</div>
+			<div class="ts_toolbar_button_label ts_localize">可用插件</div>
 		</div>
 		<div class="ts_toolbar_icon"></div>
 	</div>
@@ -38,9 +38,9 @@
 		<div class="ts_content_wrapper">
 			<div class="ts_content_spacer"></div>
 			<div class="ts_updates_bar">
-				<div class="ts_updates_bar_counter ts_localize">No Updates available</div>
+				<div class="ts_updates_bar_counter ts_localize">暂无更新</div>
 				<div class="ts_updates_bar_updateall_button ts_button">
-					<div class="ts_button_content ts_button_content_accent ts_localize">Update all</div>
+					<div class="ts_button_content ts_button_content_accent ts_localize">更新全部</div>
 				</div>
 			</div>
 			<div class="ts_plugins">
@@ -48,14 +48,14 @@
 		</div>
 	</div>
 	<div class="ts_templates">
-		<div class="ts_no_plugins_installed"><p class="ts_localize">You currently have no plugins installed.</p><p class="ts_localize">Switch to the 'Available Plugins' tab to start installing.</p></div>
-		<div class="ts_no_plugins_available"><p class="ts_localize">There are currently no plugins available.</p><p class="ts_localize">You might have to update the main application.</p></div>
+		<div class="ts_no_plugins_installed"><p class="ts_localize">您还没有安装插件.</p><p class="ts_localize">切换到可用插件页进行安装.</p></div>
+		<div class="ts_no_plugins_available"><p class="ts_localize">当前没有可用插件.</p><p class="ts_localize">您需要先升级主程序.</p></div>
 		<div class="ts_plugins_footer_container">
 			<a class="ts_button ts_plugins_more_info_button" href="#" target="_blank">
-				<div class="ts_button_content ts_localize">More Information</div>
+				<div class="ts_button_content ts_localize">更多信息</div>
 			</a>
 			<div class="ts_button ts_plugins_install_all_button">
-				<div class="ts_button_content ts_localize">Install All</div>
+				<div class="ts_button_content ts_localize">全部安装</div>
 			</div>
 			<div class="clearBoth"></div>
 		</div>
@@ -69,31 +69,31 @@
 					<p><span class="ts_localize">by</span>&nbsp;<span class="ts_plugin_content_info_publisher">Publisher</span></p>
 				</div>
 				<div class="ts_plugin_content_right">
-					<p><span><span class="ts_localize">Version</span>&nbsp;<span class="ts_plugin_content_info_version">0.0.0.0</span></span><br /><span><span class="ts_localize">Update</span>&nbsp;<span class="ts_plugin_content_info_updateversion">0.0.0.0</span></span></p>
+					<p><span><span class="ts_localize">版本</span>&nbsp;<span class="ts_plugin_content_info_version">0.0.0.0</span></span><br /><span><span class="ts_localize">更新</span>&nbsp;<span class="ts_plugin_content_info_updateversion">0.0.0.0</span></span></p>
 					<div class="ts_button ts_plugin_update_button">
-						<div class="ts_button_content ts_button_content_accent ts_localize">Install</div>
+						<div class="ts_button_content ts_button_content_accent ts_localize">安装</div>
 					</div>
 				</div>
 				<div class="clearBoth"></div>
 			</div>
 			<div class="ts_plugin_content_extended">
 				<div class="ts_plugin_content_extended_content">
-					<p class="ts_plugin_content_info_description">Description</p>
+					<p class="ts_plugin_content_info_description">描述</p>
 					<div class="ts_plugin_content_extended_content_bottom">
 						<div class="ts_plugin_content_extended_content_bottom_left">
-							<p><a class="ts_localize ts_plugin_content_info_website" href="#" target="_blank">Visit Website</a></p>
-							<p><a class="ts_localize ts_plugin_content_info_supportwebsite" href="#" target="_blank">Get Support</a></p>
+							<p><a class="ts_localize ts_plugin_content_info_website" href="#" target="_blank">访问官网</a></p>
+							<p><a class="ts_localize ts_plugin_content_info_supportwebsite" href="#" target="_blank">获取支持</a></p>
 						</div>
 						<div class="ts_plugin_content_extended_content_bottom_right">
-							<p><span class="ts_localize">License</span>:&nbsp;<a class="ts_plugin_content_info_license" href="#" target="_blank">License Type</a></p>
-							<p><a class="ts_localize ts_plugin_content_info_releasenotes" href="#" target="_blank">Release Notes</a></p>
+							<p><span class="ts_localize">授权</span>:&nbsp;<a class="ts_plugin_content_info_license" href="#" target="_blank">授权类型</a></p>
+							<p><a class="ts_localize ts_plugin_content_info_releasenotes" href="#" target="_blank">更新日志</a></p>
 						</div>
 						<div class="clearBoth"></div>
 					</div>
 					<div class="ts_plugin_content_extended_content_bottom">
 						<div class="ts_plugin_content_extended_content_bottom_left">
 							<div class="ts_button ts_plugin_uninstall_button">
-								<div class="ts_button_content ts_localize">Uninstall</div>
+								<div class="ts_button_content ts_localize">卸载</div>
 							</div>
 						</div>
 						<div class="clearBoth"></div>
@@ -103,7 +103,7 @@
 			<div class="ts_plugin_bottom_left"></div>
 			<div class="ts_plugin_bottom_right"></div>
 			<div class="clearBoth"></div>
-			<div class="ts_plugin_bottom_button"><span class="ts_localize">More</span> ...</div>
+			<div class="ts_plugin_bottom_button"><span class="ts_localize">更多</span> ...</div>
 		</div>
 	</div>
 </body>

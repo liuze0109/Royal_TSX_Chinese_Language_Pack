@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置最大和最小支持版本号
-readonly max_support_version="6.0.2"
+readonly max_support_version="6.1.0"
 readonly min_support_version="4.3.6"
 
 # 获取当前脚本运行目录并切换到工作目录
@@ -99,6 +99,7 @@ plugins=(
     "7c84a650-9896-11e1-a8b0-0800200c9a66:Terminal (based on iTerm2)"
     "9e13c958-7515-4ddd-b914-e00f77dd609b:VMware"
     "21e6e2a4-50e7-49a9-a1b9-56e2eb6f9640:PowerShell"
+    "50ee9d0f-4335-4c1d-8197-b2608a07e301:VNC (based on RoyalVNC)"
     "651a0888-d654-4d6e-b3c5-355fc392f3c9:Hyper-V"
     "49253779-c4b7-43c0-bf33-0654f1589481:Windows Services"
     "53945263-2109-409b-b682-90c282be9b58:TeamViewer"

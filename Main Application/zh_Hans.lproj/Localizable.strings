@@ -1908,10 +1908,10 @@
 "Show Reusing Objects" = "显示重复使用对象";
 "Filtered by reusing objects" = "通过重复使用对象进行过滤";
 "Property Name" = "属性名称";
-"Quality" = "Quality";
+"Quality" = "质量";
 "Reuse" = "重复使用";
-"Pwned" = "Pwned";
-"Hash" = "Hash";
+"Pwned" = "控制";
+"Hash" = "哈希";
 "Clear Filter" = "清除过滤器";
 "Password Analyzer" = "密码分析器";
 "Show Password Analyzer" = "显示密码分析器";

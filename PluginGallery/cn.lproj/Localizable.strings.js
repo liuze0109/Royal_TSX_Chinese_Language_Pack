@@ -25,7 +25,7 @@ var language_file_cn = {
 	"There are currently no plugins available." : "当前没有可用的插件.",
 	"You might have to update the main application." : "您可能必须更新主应用程序.",
 	"Warning" : "警告",
-	"An error occurred" : "发发生错误生",
+	"An error occurred" : "发生错误生",
 	"OK" : "OK",
 	"Client Side Error" : "客户端错误",
 	"Visit Website" : "访问网站",

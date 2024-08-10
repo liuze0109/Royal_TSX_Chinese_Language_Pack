@@ -12,7 +12,7 @@ var pluginGallery = {
 	UPDATES_BAR_HEIGHT_VISIBLE: 42,
 	
 	appVersion: "",
-	language: "",
+	language: "cn",
 	accentColor: "0e7afe",
 	
 	installedPlugins: null,
@@ -24,14 +24,13 @@ var pluginGallery = {
 	init: function () {
 		// Read QueryString Arguments
 		
-		pluginGallery.language = "en";
+		pluginGallery.language = "cn";
 		var langQ = utils.getParameter("language");
 		
 		if (langQ) {
 			pluginGallery.language = langQ;
 		}
 		pluginGallery.language = "cn";
-		
 		pluginGallery.appVersion = "0.0.0.0";
 		var appVersionQ = utils.getParameter("appVersion");
 		
