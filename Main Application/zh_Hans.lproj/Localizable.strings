@@ -897,10 +897,10 @@
 "An error occurred while parsing the response." = "解析响应时发生错误.";
 "Auto{0}Refresh" = "自动{0}刷新";
 "This connection type allows you to specify multiple entries. Use the textfield below to add, change or remove entries for this connection." = "此连接类型允许您指定多个条目。使用下面的文本字段添加，更改或删除此连接的条目.";
-"Loading, please wait ..." = "加载中,请稍后 ...";
-"Saving, please wait ..." = "保存中，请稍后 ...";
-"Merging, please wait ..." = "合并中，请稍后 ...";
-"Installing plugin(s), please wait" = "插件安装中, 请稍后";
+"Loading, please wait ..." = "加载中,请稍候 ...";
+"Saving, please wait ..." = "保存中，请稍候 ...";
+"Merging, please wait ..." = "合并中，请稍候 ...";
+"Installing plugin(s), please wait" = "插件安装中, 请稍候";
 "Plugin Settings" = "插件设置";
 "Dashboard Settings" = "面板设置";
 "Copy Username" = "复制用户名";
