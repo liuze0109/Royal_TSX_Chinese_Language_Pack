@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置最大和最小支持版本号
-readonly max_support_version="6.1.0"
+readonly max_support_version="6.3.0"
 readonly min_support_version="4.3.6"
 
 # 获取当前脚本运行目录并切换到工作目录
